@@ -5,7 +5,7 @@ My name is Maksim and I am striving to become a professional in IT development.
 ---
 
 **To do this, done:**  
-🕛 Currently studying at "RS School" on a course on "NodeJS 2021" 
+🕛 Currently studying at "RS School" on a course on "JS / FRONT-END" 
 
 ---
 
