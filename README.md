@@ -1,5 +1,17 @@
 ### Hi there 👋
+My name is Maksim and I am striving to become a professional in IT development.
 
+❗ My goal: become Frontend developer 🚀 
+---
+
+**To do this, done:**  
+🕛 Currently studying at "RS School" on a course on "NodeJS 2021" 
+---
+
+
+- 🔭 I’m currently working on Nuclear Power Plant
+- 🌱 I’m currently learning JavaScript
+-----
 <!--
 **maxlmysim/maxlmysim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
