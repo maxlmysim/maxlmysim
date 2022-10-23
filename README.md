@@ -25,14 +25,39 @@ My name is Maksim and I am striving to become a professional in IT development.
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff"/>
 <img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="edux" src="https://img.shields.io/badge/Redux-f3f6f4?style=for-the-badge&logo=redux&logoColor=764abc"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img alt="NPM" src="https://img.shields.io/badge/npm-CB3534?style=for-the-badge&logo=npm&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-3e2c00?style=for-the-badge&logo=git&logoColor=f1502f"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-737373?style=for-the-badge&logo=figma&logoColor=fa9705"/>
 <img alt="SCSS" src="https://img.shields.io/badge/Scss-cc6a9a?style=for-the-badge&logo=sass&logoColor=f3f6f4"/>
 <img alt="Mongodb" src="https://img.shields.io/badge/Mongodb-4db33d?style=for-the-badge&logo=Mongodb&logoColor=fff"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=white"/>
+<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=61DAFB"/>
  
 </section>
 &nbsp;
+
+
+👀 What would I show you? May be...
+-----
+
+ <p>You can click on the picture to see how the app works</b></p>
+
+-----
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://maxlmysim.github.io/rslang/#about-team" target="_blank" >
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197406647-8fab11f1-1a2d-4f53-aa01-ca2dfac2512c.png" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🎮 <b>"English"</b> Application for learning English</span><br /><br />  
+   <a href="https://github.com/maxlmysim/rslang">Link to code<a/>
+   </td>
+  </tr>
+
+</table>
+
+-----
+
+### Thank you for your time! 😎
