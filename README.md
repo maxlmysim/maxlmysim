@@ -116,6 +116,17 @@ My name is Maksim and I am striving to become a professional in IT development.
    </td>
   </tr>
  
+ <tr>
+    <td>
+      <a href="https://maxlmysim.github.io/virtual-keyboard/" target="_blank" >
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407744-3d93033f-5796-4f5d-b8f7-9343bdb1f779.png" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>⌨️ Virtual keyboard</span><br /><br />  
+   <a href="https://github.com/maxlmysim/virtual-keyboard">Link to code<a/>
+   </td>
+  </tr>
   
 </table>
 
