@@ -5,7 +5,14 @@ My name is Maksim and I am striving to become a professional in IT development.
 ---
 
 **To do this, done:**  
-🕛 Currently studying at "RS School" on a course on "JS / FRONT-END" 
+**To do this, done:**  
+ ✔️ <a href="https://stepik.org/cert/1277453
+"><img alt="certificate" src="https://img.shields.io/badge/Stepik-certificate%20JavaScript%20для%20начинающих-orange?style=for-the-badge"/></a>   
+ ✔️ <a href="https://app.rs.school/certificate/jiic1cne"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202022%20stage%200-orange?style=for-the-badge"/></a>   
+  ✔️ <a href="https://app.rs.school/certificate/2u0gackl"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202022%20stage%201--2-orange?style=for-the-badge"/></a>   
+
+ 🕛 Currently studying at "RS School" on a course on "NodeJS 2021" 
+ &nbsp;
 
 ---
 
