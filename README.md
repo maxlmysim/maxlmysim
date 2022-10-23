@@ -15,6 +15,8 @@ My name is Maksim and I am striving to become a professional in IT development.
 
 ---
 - 🔭 I’m currently working on Nuclear Power Plant
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=maxlmysim&theme=dark&hide_border=true&border_radius=10.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 -----
 💻  I know how to work with: 
 -----
