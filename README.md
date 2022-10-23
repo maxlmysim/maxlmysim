@@ -1,11 +1,11 @@
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vladislav-belyaev1/">
+  <a href="https://www.linkedin.com/in/maxlmysim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:buladzislau@gmail.com">
+  <a href="mailto:maxlmysim@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://t.me/buladzislau">
+  <a href="https://t.me/maxlmysim">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <h1>
@@ -14,7 +14,6 @@
 </h1>
 </div>
 
-### Hi there 👋
 My name is Maksim and I am striving to become a professional in IT development.
 
 ❗ My goal: become Frontend developer 🚀 
