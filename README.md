@@ -40,12 +40,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxlmysim&hide=python&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+&nbsp;
 
+
+💻  I know how to work with:
 -----
 
-💻  I know how to work with: 
-
------
 <section align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
