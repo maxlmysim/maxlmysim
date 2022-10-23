@@ -10,7 +10,7 @@ My name is Maksim and I am striving to become a professional in IT development.
  ✔️ <a href="https://app.rs.school/certificate/jiic1cne"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202022%20stage%200-orange?style=for-the-badge"/></a>   
   ✔️ <a href="https://app.rs.school/certificate/2u0gackl"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202022%20stage%201--2-orange?style=for-the-badge"/></a>   
 
- 🕛 Currently studying 'React&Redux'
+ 🕛 Currently I am improving my skills in programming
  &nbsp;
 
 ---
@@ -56,6 +56,17 @@ My name is Maksim and I am striving to become a professional in IT development.
    </td>
   </tr>
 
+   <tr>
+    <td>
+      <a href="https://maxlmysim.github.io/Christmas-TS/#start-page" target="_blank" >
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407076-3c94a588-6881-4bb9-8774-be47f5926e6c.png" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🔍 Сhristmas tree toy store </span><br /><br />  
+   <a href="[https://github.com/maxlmysim/rslang](https://github.com/maxlmysim/Christmas-TS)">Link to code<a/>
+   </td>
+  </tr>
 </table>
 
 -----
