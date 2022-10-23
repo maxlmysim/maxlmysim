@@ -32,7 +32,7 @@ My name is Maksim and I am striving to become a professional in IT development.
 <img alt="SCSS" src="https://img.shields.io/badge/Scss-cc6a9a?style=for-the-badge&logo=sass&logoColor=f3f6f4"/>
 <img alt="Mongodb" src="https://img.shields.io/badge/Mongodb-4db33d?style=for-the-badge&logo=Mongodb&logoColor=fff"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm?style=for-the-badge&logo=webstorm&logoColor=white"/>
+<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=61DAFB"/>
  
 </section>
 &nbsp;
