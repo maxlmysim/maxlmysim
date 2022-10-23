@@ -79,6 +79,42 @@ My name is Maksim and I am striving to become a professional in IT development.
    <a href="https://github.com/maxlmysim/Shelter">Link to code<a/>
    </td>
   </tr>
+ 
+   <tr>
+    <td>
+      <a href="https://maxlmysim.github.io/2048-game/" target="_blank" >
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407366-ae79a2b3-c3d1-4bd2-8e78-7828d930eba0.png" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🎮 2048</span><br /><br />  
+   <a href="https://github.com/maxlmysim/2048-game">Link to code<a/>
+   </td>
+  </tr>
+ 
+   <tr>
+    <td>
+      <a href="https://maxlmysim.github.io/memory-game/" target="_blank" >
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407457-6d6303b4-8c89-497e-8e36-0d81959311c9.png" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🎮 Memory game</span><br /><br />  
+   <a href="https://github.com/maxlmysim/memory-game">Link to code<a/>
+   </td>
+  </tr>
+ 
+   <tr>
+    <td>
+      <a href="https://maxlmysim.github.io/portfolio/" target="_blank" >
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407556-53a2b4f7-959b-4cd0-b0ee-bec5db507f12.png" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>📷 Portfolio</span><br /><br />  
+   <a href="https://github.com/maxlmysim/portfolio">Link to code<a/>
+   </td>
+  </tr>
 </table>
 
 -----
