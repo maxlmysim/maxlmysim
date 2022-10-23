@@ -75,7 +75,7 @@
   <tr>
     <td>
       <a href="https://maxlmysim.github.io/rslang/#about-team" target="_blank" >
-      <kbd><img src="https://user-images.githubusercontent.com/94135700/197406647-8fab11f1-1a2d-4f53-aa01-ca2dfac2512c.png" width="320" ></kbd>
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197406647-8fab11f1-1a2d-4f53-aa01-ca2dfac2512c.png" width="400" ></kbd>
       </a>
    </td>
    <td>
@@ -87,7 +87,7 @@
    <tr>
     <td>
       <a href="https://maxlmysim.github.io/Christmas-TS/#start-page" target="_blank" >
-      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407076-3c94a588-6881-4bb9-8774-be47f5926e6c.png" width="320" ></kbd>
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407076-3c94a588-6881-4bb9-8774-be47f5926e6c.png" width="400" ></kbd>
       </a>
    </td>
    <td>
@@ -99,7 +99,7 @@
   <tr>
     <td>
       <a href="https://maxlmysim.github.io/Shelter/pages/main/" target="_blank" >
-      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407238-e40e8ba2-ccaf-412a-8665-6d6453c532c9.png" width="480" ></kbd>
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407238-e40e8ba2-ccaf-412a-8665-6d6453c532c9.png" width="400" ></kbd>
       </a>
    </td>
    <td>
@@ -111,7 +111,7 @@
    <tr>
     <td>
       <a href="https://maxlmysim.github.io/2048-game/" target="_blank" >
-      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407366-ae79a2b3-c3d1-4bd2-8e78-7828d930eba0.png" width="480" ></kbd>
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407366-ae79a2b3-c3d1-4bd2-8e78-7828d930eba0.png" width="400" ></kbd>
       </a>
    </td>
    <td>
@@ -123,7 +123,7 @@
    <tr>
     <td>
       <a href="https://maxlmysim.github.io/memory-game/" target="_blank" >
-      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407457-6d6303b4-8c89-497e-8e36-0d81959311c9.png" width="480" ></kbd>
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407457-6d6303b4-8c89-497e-8e36-0d81959311c9.png" width="400" ></kbd>
       </a>
    </td>
    <td>
@@ -135,7 +135,7 @@
    <tr>
     <td>
       <a href="https://maxlmysim.github.io/portfolio/" target="_blank" >
-      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407556-53a2b4f7-959b-4cd0-b0ee-bec5db507f12.png" width="480" ></kbd>
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407556-53a2b4f7-959b-4cd0-b0ee-bec5db507f12.png" width="400" ></kbd>
       </a>
    </td>
    <td>
@@ -147,7 +147,7 @@
  <tr>
     <td>
       <a href="https://maxlmysim.github.io/virtual-keyboard/" target="_blank" >
-      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407744-3d93033f-5796-4f5d-b8f7-9343bdb1f779.png" width="480" ></kbd>
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407744-3d93033f-5796-4f5d-b8f7-9343bdb1f779.png" width="400" ></kbd>
       </a>
    </td>
    <td>
