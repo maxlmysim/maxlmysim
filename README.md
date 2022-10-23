@@ -1,4 +1,13 @@
 <div id="badges" align="center">
+  <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+My name is Maksim and I am striving to become a professional in IT development.
+
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maxlmysim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -8,13 +17,7 @@
   <a href="https://t.me/maxlmysim">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
-
-My name is Maksim and I am striving to become a professional in IT development.
 
 ❗ My goal: become Frontend developer 🚀 
 ---
@@ -30,7 +33,7 @@ My name is Maksim and I am striving to become a professional in IT development.
 
 ---
 - 🔭 I’m currently working on Nuclear Power Plant
------
+---
 ### :fire: My Stats :
 <div markdown="2" align="center">
 
@@ -38,9 +41,9 @@ My name is Maksim and I am striving to become a professional in IT development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxlmysim&hide=python&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
------
+---
 💻  I know how to work with: 
------
+---
 <section align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
