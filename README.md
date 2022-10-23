@@ -51,7 +51,7 @@ My name is Maksim and I am striving to become a professional in IT development.
       </a>
    </td>
    <td>
-     <span>🎮 <b>"English"</b> Application for learning English</span><br /><br />  
+     <span>🎮 Application for learning English</span><br /><br />  
    <a href="https://github.com/maxlmysim/rslang">Link to code<a/>
    </td>
   </tr>
