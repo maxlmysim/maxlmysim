@@ -75,7 +75,7 @@
   <tr>
     <td>
       <a href="https://maxlmysim.github.io/rslang/#about-team" target="_blank" >
-      <kbd><img src="https://user-images.githubusercontent.com/94135700/197406647-8fab11f1-1a2d-4f53-aa01-ca2dfac2512c.png" width="480" ></kbd>
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197406647-8fab11f1-1a2d-4f53-aa01-ca2dfac2512c.png" width="320" ></kbd>
       </a>
    </td>
    <td>
@@ -87,7 +87,7 @@
    <tr>
     <td>
       <a href="https://maxlmysim.github.io/Christmas-TS/#start-page" target="_blank" >
-      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407076-3c94a588-6881-4bb9-8774-be47f5926e6c.png" width="480" ></kbd>
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407076-3c94a588-6881-4bb9-8774-be47f5926e6c.png" width="320" ></kbd>
       </a>
    </td>
    <td>
