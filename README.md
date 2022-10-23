@@ -64,7 +64,19 @@ My name is Maksim and I am striving to become a professional in IT development.
    </td>
    <td>
      <span>🔍 Сhristmas tree toy store </span><br /><br />  
-   <a href="[https://github.com/maxlmysim/rslang](https://github.com/maxlmysim/Christmas-TS)">Link to code<a/>
+   <a href="https://github.com/maxlmysim/Christmas-TS">Link to code<a/>
+   </td>
+  </tr>
+ 
+  <tr>
+    <td>
+      <a href="https://maxlmysim.github.io/Shelter/pages/main/" target="_blank" >
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/197407238-e40e8ba2-ccaf-412a-8665-6d6453c532c9.png" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🐕 Shelter</span><br /><br />  
+   <a href="https://github.com/maxlmysim/Shelter">Link to code<a/>
    </td>
   </tr>
 </table>
