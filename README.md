@@ -27,11 +27,11 @@
  ✔️ <a href="https://app.rs.school/certificate/jiic1cne"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202022%20stage%200-orange?style=for-the-badge"/></a>   
   ✔️ <a href="https://app.rs.school/certificate/2u0gackl"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202022%20stage%201--2-orange?style=for-the-badge"/></a>   
 
- 🕛 Currently I am improving my skills in programming
+ 🕛 I am currently improving my programming skills
  &nbsp;
 
 ---
-- 🔭 I’m currently working on Nuclear Power Plant
+- 🔭 I currently work at a Nuclear Power Plant and am a freelancer
 ---
 ### :fire: My Stats :
 <div markdown="2" align="center">
