@@ -18,7 +18,7 @@
   </a>
 </div>
 
-❗ My goal: become Frontend developer 🚀 
+❗ My goal: the best Frontend developer 🚀 
 ---
 
 **To do this, done:**  
