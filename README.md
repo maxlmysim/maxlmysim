@@ -82,7 +82,8 @@
      <span>🎮 Project Manager(Jira)</span><br /><br />  
    <a href="https://github.com/maxlmysim/project-management-system">Link to code<a/>
      <hr/>
-     <span>login: tester; password: tester12345;  Or register new user.</span>
+     <span>login: tester; password: tester12345; 
+       Or register new user.</span>
    </td>
   </tr>
   
