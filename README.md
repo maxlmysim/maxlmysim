@@ -74,6 +74,19 @@
 <table align="center">
   <tr>
     <td>
+      <a href="https://project-management-fe1.onrender.com/" target="_blank" >
+      <kbd><img src="https://user-images.githubusercontent.com/94135700/215169919-4c29b2a2-8868-4b8d-ba72-c6d21a9f3a8e.png" width="400" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🎮 Project Manager(Jira)</span><br /><br />  
+   <a href="https://github.com/maxlmysim/project-management-system">Link to code<a/>
+     <span>login: tester; password: tester12345;  Or register new user.</span>
+   </td>
+  </tr>
+  
+  <tr>
+    <td>
       <a href="https://maxlmysim.github.io/rslang/#about-team" target="_blank" >
       <kbd><img src="https://user-images.githubusercontent.com/94135700/197406647-8fab11f1-1a2d-4f53-aa01-ca2dfac2512c.png" width="400" ></kbd>
       </a>
